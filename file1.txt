@@ -1,3 +1,0 @@
-Welcome to Azure Devops Training
-Ankit Narula
-23-Aug-2023
